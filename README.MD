@@ -108,7 +108,7 @@ Se trata de un **protocolo de aplicación** empleado en sistemas de información
 > En **1990**, Berners-Lee logró la **primera comunicación cliente-servidor** usando HTTP, y en **1994** fundó el **W3C (World Wide Web Consortium)** en el **MIT**, organismo que aún define los estándares de la web.
 
 <div align="center">
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\http\Protocolo http.gif" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/http\Protocolo http.gif" alt="🔒 Candado HTTPS" width="600">
 <br><em>Flujo de trabajo http</em>
 </div>
 
@@ -120,7 +120,7 @@ Se trata de un **protocolo de aplicación** empleado en sistemas de información
 Combina el Protocolo de Transferencia de Hipertexto con los protocolos **SSL (Secure Sockets Layer)** o **TLS (Transport Layer Security)** para garantizar una **comunicación cifrada** y una **identificación segura** del servidor web.
 
 <div align="center">
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\https ssl tls\Candado ssl tls.webp" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/https ssl tls\Candado ssl tls.webp" alt="🔒 Candado HTTPS" width="600">
 <br><em></em>
 </div>
 
@@ -150,7 +150,7 @@ Gracias a este proceso, la información transmitida viaja de forma segura y no p
 ---
 ### 🔐 Proceso de conexión segura
 <div align="center">
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\https ssl tls\Infografia https.png" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/https ssl tls\Infografia https.png" alt="🔒 Candado HTTPS" width="600">
 <br><em></em>
 </div>
 
@@ -198,7 +198,7 @@ En resumen, **HTTPS protege la privacidad, la identidad y la integridad de los d
 
 
 <div align="center">
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\https ssl tls\Diferencia entre http https.png" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/https ssl tls\Diferencia entre http https.png" alt="🔒 Candado HTTPS" width="600">
 <br><em></em>
 </div>
 
@@ -217,7 +217,7 @@ A continuación se detallan las principales consecuencias:
 
 <div align="center">
 <br><em>Ejemplo de repuesta del navegador ante un sitio riesgoso</em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\https ssl tls\Sitio no seguro.jpeg" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/https ssl tls\Sitio no seguro.jpeg" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -232,7 +232,7 @@ Toda comunicación —incluyendo las solicitudes y respuestas **HTTP**— viaja 
 
 <div align="center">
 <br><em>Puertos TCP/IP</em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\tcp ip\tcp ip.webp" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/tcp ip\tcp ip.webp" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -330,7 +330,7 @@ Cuando accedemos a `https://www.ejemplo.com`, el navegador utiliza automáticame
 
 <div align="center">
 <br><em></em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\Codigo http\Codigo estado.png" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/Codigo http\Codigo estado.png" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -357,7 +357,7 @@ Comprenderlos facilita el diagnóstico de errores, mejora la experiencia del usu
 
 <div align="center">
 <br><em></em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\Codigo http\http-status-classes.png" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/Codigo http\http-status-classes.png" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -413,7 +413,7 @@ En el contexto de las **APIs REST**, estas operaciones se alinean con el modelo 
 
 <div align="center">
 <br><em></em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\Metodos http\CRUD.jpeg" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/Metodos http\CRUD.jpeg" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -455,7 +455,7 @@ En ellas, los **recursos** (datos o servicios) se identifican mediante **URLs** 
 
 <div align="center">
 <br><em></em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\api\restAPI.png" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/api\restAPI.png" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -553,7 +553,7 @@ Es ampliamente usada por desarrolladores y testers para validar endpoints y fluj
 
 <div align="center">
 <br><em>Interfaz de usuario en Postman</em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\api\Postman\Postman-v8-user-interface-desktop.gif" alt="🔒 Candado HTTPS" width="600">
+<img src="./images/api\Postman\Postman-v8-user-interface-desktop.gif" alt="🔒 Candado HTTPS" width="600">
 
 </div>
 
@@ -645,7 +645,7 @@ En otras palabras, las cabeceras son el **lenguaje de control** entre el cliente
 👉 **Importancia:** estas cabeceras garantizan que el servidor reciba correctamente el contenido y pueda responder de forma coherente (por ejemplo, sabiendo si debe interpretar texto, JSON o binarios).
 <div align="center">
 <br><em></em>
-<img src="C:\Users\gonza\OneDrive\Documentos\Generation\Tareas\Api\images\Header\http-message-anatomy.png" width="600">
+<img src="./images/Header\http-message-anatomy.png" width="600">
 
 </div>
 
